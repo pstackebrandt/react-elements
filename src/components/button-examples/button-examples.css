@@ -1,0 +1,20 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: 'Inter', sans-serif;
+}
+
+main {
+    margin: 1vh;
+    padding: 1vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.counter-output {
+    font-size: 0.8em;
+    margin: 0.25em;
+    padding: 0.25em;
+}
